@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a,b;
-    cout<<"Enter two numbers"<<endl;
-    cin>>a>>b;
-    cout<<"Sum of "<<a<<" and "<<b<<" is: "<<a+b<<endl;
+    int a,b,c;
+    cout<<"Enter three numbers"<<endl;
+    cin>>a>>b>>c;
+    cout<<"Sum of "<<a<<", "<<b<<" and "<<c<<" is: "<<a+b+c<<endl;
     return 0;
 }
